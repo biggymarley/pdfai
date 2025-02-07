@@ -1,0 +1,819 @@
+﻿Name,path,Access,Source,Description,Description copy 2,Description copy,Title,Table,Subtext,Class Features,Class Features Selection,Subclass,Subclass Selection,Hit Points,Proficiencies,Equipment,Column5,Column6,Column4,1st - Proficiency Bonus,2nd - Proficiency Bonus,3rd - Proficiency Bonus,4th - Proficiency Bonus,5th - Proficiency Bonus,6th - Proficiency Bonus,7th - Proficiency Bonus,8th - Proficiency Bonus,9th - Proficiency Bonus,10th - Proficiency Bonus,11th - Proficiency Bonus,12th - Proficiency Bonus,13th - Proficiency Bonus,14th - Proficiency Bonus,15th - Proficiency Bonus,16th - Proficiency Bonus,17th - Proficiency Bonus,18th - Proficiency Bonus,19th - Proficiency Bonus,20th - Proficiency Bonus,1st - Column 4,2nd - Column 4,3rd - Column 4,4th - Column 4,5th - Column 4,6th - Column 4,7th - Column 4,8th - Column 4,9th - Column 4,10th - Column 4,11th - Column 4,12th - Column 4,13th - Column 4,14th - Column 4,15th - Column 4,16th - Column 4,17th - Column 4,18th - Column 4,19th - Column 4,20th - Column 4,1st - Feature,2nd - Feature,3rd - Feature,4th - Feature,5th - Feature,6th - Feature,7th - Feature,8th - Feature,9th - Feature,10th - Feature,11th - Feature,12th - Feature,13th - Feature,14th - Feature,15th - Feature,16th - Feature,17th - Feature,18th - Feature,19th - Feature,20th - Feature,1st - Column 5,2nd - Column 5,3rd - Column 5,4th - Column 5,5th - Column 5,6th - Column 5,7th - Column 5,8th - Column 5,9th - Column 5,10th - Column 5,11th - Column 5,12th - Column 5,13th - Column 5,14th - Column 5,15th - Column 5,16th - Column 5,17th - Column 5,18th - Column 5,19th - Column 5,20th - Column 5,1st - Column 6,2nd - Column 6,3rd - Column 6,4th - Column 6,5th - Column 6,6th - Column 6,7th - Column 6,8th - Column 6,9th - Column 6,10th - Column 6,11th - Column 6,12th - Column 6,13th - Column 6,14th - Column 6,15th - Column 6,16th - Column 6,17th - Column 6,18th - Column 6,19th - Column 6,20th - Column 6,Highlight,Highlight Description,Invocation,Invocation Description
+Barbarian,barbarian,Free,SRD,"Unleash raw fury with powerful melee strikes and survive onslaughts with unmatched resilience.
+
+Ideal for players who want to charge headfirst into combat and deal heavy damage while taking hits.","Unleash raw fury with powerful melee strikes and survive onslaughts with unmatched resilience.
+
+Ideal for players who want to charge headfirst into combat and deal heavy damage while taking hits.",Unleash raw fury with powerful melee strikes and survive onslaughts with unmatched resilience.,,,"As a Barbarian, you gain the following class features.","Rage,Unarmored Defense,Reckless Attack,Danger Sense,Primal Path,Ability Score Improvement,Extra Attack,Fast Movement,Feral Instinct,Brutal Critical,Relentless Rage,Persistent Rage,Indomitable Might,Primal Champion","Rage,Unarmored Defense,Reckless Attack,Danger Sense,Primal Path,Ability Score Improvement,Extra Attack,Fast Movement,Feral Instinct,Brutal Critical,Relentless Rage,Persistent Rage,Indomitable Might,Primal Champion","Path of the Berserker,Path of the Psychic Tempest,Path of the Reborn","Path of the Berserker,Path of the Psychic Tempest,Path of the Reborn","Hit Dice: 1d12 per barbarian level 
+Hit Points at 1st Level: 12 + your Constitution modifier 
+Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st","Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: None
+Saving Throws: Strength, Constitution
+Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival","You start with the following equipment, in addition to the equipment granted by your background:
+- (a) a greataxe or (b) any martial melee weapon
+- (a) two handaxes or (b) any simple weapon
+- An explorer’s pack and four javelins","Rage	
+Damage",,Rages,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,2,2,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,Unlimited,"Rage, Unarmored Defense","Reckless Attack, Danger Sense",Primal Path,Ability Score Improvement,"Extra Attack, Fast Movement",Path feature,Feral Instinct,Ability Score Improvement,Brutal Critical (1 die),Path feature,Relentless Rage,Ability Score Improvement,Brutal Critical (2 dice),Path feature,Persistent Rage,Ability Score Improvement,Brutal Critical (3 dice),Indomitable Might,Ability Score Improvement,Primal Champion,+2,+2,+2,+2,+2,+2,+2,+2,+3,+3,+3,+3,+3,+3,+3,+4,+4,+4,+4,+4,,,,,,,,,,,,,,,,,,,,,,,,
+Bard,bard,Free,SRD,"Weave magic through music and words, balancing support, offense, and utility.
+
+Ideal for players who want a flexible character who can dabble in many skills and provide support through creativity and charm.","Weave magic through music and words, balancing support, offense, and utility.
+
+Ideal for players who want a flexible character who can dabble in many skills and provide support through creativity and charm.","Weave magic through music and words, balancing support, offense, and utility.",,,"As a Bard, you gain the following class features.","Spellcasting,Bardic Inspiration,Jack of All Trades,Song of Rest,Bard College,Expertise,Ability Score Improvement,Font of Inspiration,Countercharm,Magical Secrets,Superior Inspiration","Spellcasting,Bardic Inspiration,Jack of All Trades,Song of Rest,Bard College,Expertise,Ability Score Improvement,Font of Inspiration,Countercharm,Magical Secrets,Superior Inspiration","College of Lore,College of Muses,College of Folklore","College of Lore,College of Muses,College of Folklore","Hit Dice: 1d8 per bard level 
+Hit Points at 1st Level: 8 + your Constitution modifier 
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per bard level after 1st","Armor: Light armor
+Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Tools: Three musical instruments of your choice
+Saving Throws: Dexterity, Charisma
+Skills: Choose any three","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a rapier, (b) a longsword, or (c) any simple weapon
+(a) a diplomat’s pack or (b) an entertainer’s pack
+(a) a lute or (b) any other musical instrument
+Leather armor and a dagger",Spells Known,,Cantrips Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,"Spellcasting, Bardic Inspiration (d6)","Jack of All Trades, Song of Rest (d6)","Bard College, Expertise",Ability Score Improvement,"Bardic Inspiration (d8), Font of Inspiration","Countercharm, Bard College feature",̶,Ability Score Improvement,Song of Rest (d8),"Bardic Inspiration (d10), Expertise, Magical Secrets",̶,Ability Score Improvement,Song of Rest (d10),"Magical Secrets, Bard College feature",Bardic Inspiration (d12),Ability Score Improvement,Song of Rest (d12),Magical Secrets,Ability Score Improvement,Superior Inspiration,4,5,6,7,8,9,10,11,12,14,15,15,16,18,19,19,20,22,22,22,,,,,,,,,,,,,,,,,,,,,,,,
+Cleric,cleric,Free,SRD,"Serve a divine power, casting healing and offensive spells while protecting your allies.
+
+Ideal for players who want to play a divine warrior, offering a mix of healing, defense, and powerful magic tied to their deity.","Serve a divine power, casting healing and offensive spells while protecting your allies.
+
+Ideal for players who want to play a divine warrior, offering a mix of healing, defense, and powerful magic tied to their deity.","Serve a divine power, casting healing and offensive spells while protecting your allies.",,,"As a Cleric, you gain the following class features.","Spellcasting,Divine Domain,Channel Divinity,Ability Score Improvement,Destroy Undead,Divine Intervention,Divine Intervention (Automatic Success)","Spellcasting,Divine Domain,Channel Divinity,Ability Score Improvement,Destroy Undead,Divine Intervention,Divine Intervention (Automatic Success)","Life Domain,Avatar Domain,Hope Domain","Life Domain,Avatar Domain,Hope Domain","Hit Dice: 1d8 per cleric level 
+Hit Points at 1st Level: 8 + your Constitution modifier 
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per cleric level after 1st","Armor: Light armor, medium armor, shields
+Weapons: Simple weapons
+Tools: None
+Saving Throws: Wisdom, Charisma
+Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a mace or (b) a warhammer (if proficient)
+(a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+(a) a light crossbow and 20 bolts or (b) any simple weapon
+(a) a priest’s pack or (b) an explorer’s pack
+A shield and a holy symbol",,,Cantrips Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,3,3,3,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,"Spellcasting, Divine Domain","Channel Divinity (1/rest), Divine Domain feature",-,Ability Score Improvement,Destroy Undead (CR 1/2),"Channel Divinity (2/rest), Divine Domain feature",-,"Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature",-,Divine Intervention,Destroy Undead (CR 2),Ability Score Improvement,-,Destroy Undead (CR 3),-,Ability Score Improvement,"Destroy Undead (CR 4), Divine Domain feature",Channel Divinity (3/rest),Ability Score Improvement,Divine Intervention improvement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Life Domain,"The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+
+Life Domain Spells
+
+1st Level: Bless, Cure Wounds
+3rd Level: Lesser Restoration, Spiritual Weapon
+5th Level: Beacon of Hope, Revivify
+7th Level: Death Ward, Guardian of Faith
+9th Level: Mass Cure Wounds, Raise Dead
+
+Bonus Proficiency
+When you choose this domain at 1st level, you gain proficiency with heavy armor.
+
+Disciple of Life
+Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level.
+
+Channel Divinity: Preserve Life
+Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
+
+Blessed Healer
+Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell’s level.
+
+Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+Supreme Healing
+Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.",,
+Druid,druid,Free,SRD,"Shape nature to your will by summoning creatures, casting elemental spells, or transforming into animals.
+
+Ideal for players who want to harness the power of nature, shapeshift into creatures, and protect the balance of the natural world.","Shape nature to your will by summoning creatures, casting elemental spells, or transforming into animals.
+
+Ideal for players who want to harness the power of nature, shapeshift into creatures, and protect the balance of the natural world.","Shape nature to your will by summoning creatures, casting elemental spells, or transforming into animals.",,,"As a Druid, you gain the following class features.","Druidic,Spellcasting,Wild Shape,Druid Circle,Ability Score Improvement,Timeless Body,Beast Spells,Archdruid","Druidic,Spellcasting,Wild Shape,Druid Circle,Ability Score Improvement,Timeless Body,Beast Spells,Archdruid","Circle of the Land,Circle of the Primordium,Circle of Towers","Circle of the Land,Circle of the Primordium,Circle of Towers","Hit Dice: 1d8 per druid level 
+Hit Points at 1st Level: 8 + your Constitution modifier 
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per druid level after 1st","Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
+Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+Tools: Herbalism kit
+Saving Throws: Intelligence, Wisdom
+Skills: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a wooden shield or (b) any simple weapon
+(a) a scimitar or (b) any simple melee weapon
+Leather armor, an explorer’s pack, and a druidic focus",,,Cantrips Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,"Druidic, Spellcasting","Wild Shape, Druid Circle",̶,"Wild Shape improvement, Ability Score Improvement",̶,Druid Circle feature,̶,"Wild Shape improvement, Ability Score Improvement",̶,Druid Circle feature,̶,Ability Score Improvement,̶,Druid Circle feature,̶,Ability Score Improvement,̶,"Timeless Body, Beast Spells",Ability Score Improvement,Archdruid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Circle of the Land,"The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
+
+Bonus Cantrip
+When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.
+
+Natural Recovery
+Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
+
+Circle Spells
+Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+
+Arctic Circle Spells
+3rd Level: Hold Person, Spike Growth
+5th Level: Sleet Storm, Slow
+7th Level: Freedom of Movement, Ice Storm
+9th Level: Commune with Nature, Cone of Cold
+
+Coast Circle Spells
+3rd Level: Mirror Image, Misty Step
+5th Level: Water Breathing, Water Walk
+7th Level: Control Water, Freedom of Movement
+9th Level: Conjure Elemental, Scrying
+
+Desert Circle Spells
+3rd Level: Blur, Silence
+5th Level: Create Food and Water, Protection from Energy
+7th Level: Blight, Hallucinatory Terrain
+9th Level: Insect Plague, Wall of Stone
+
+Forest Circle Spells
+3rd Level: Barkskin, Spider Climb
+5th Level: Call Lightning, Plant Growth
+7th Level: Divination, Freedom of Movement
+9th Level: Commune with Nature, Tree Stride
+
+Grassland Circle Spells
+3rd Level: Invisibility, Pass Without Trace
+5th Level: Daylight, Haste
+7th Level: Divination, Freedom of Movement
+9th Level: Dream, Insect Plague
+
+Mountain Circle Spells
+3rd Level: Spider Climb, Spike Growth
+5th Level: Lightning Bolt, Meld into Stone
+7th Level: Stone Shape, Stoneskin
+9th Level: Passwall, Wall of Stone
+
+Swamp Circle Spells
+3rd Level: Acid Arrow, Darkness
+5th Level: Water Walk, Stinking Cloud
+7th Level: Freedom of Movement, Locate Creature
+9th Level: Insect Plague, Scrying
+
+Land’s Stride
+Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the entangle spell.
+
+Nature’s Ward
+When you reach 10th level, you can’t be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+
+Nature’s Sanctuary
+When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
+The creature is aware of this effect before it makes its attack against you.
+
+Sacred Plants and Wood
+A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
+Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
+Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+
+Druids and the Gods
+Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix PHB include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.",,
+Fighter,fighter,Free,SRD,"Master of weapons and combat techniques, excelling in any battlefield role.
+
+Ideal for players who want a straightforward, highly customizable martial character with unmatched prowess in physical combat.","Master of weapons and combat techniques, excelling in any battlefield role.
+
+Ideal for players who want a straightforward, highly customizable martial character with unmatched prowess in physical combat.","Master of weapons and combat techniques, excelling in any battlefield role.",,,"As a Fighter, you gain the following class features.","Fighting Style,Second Wind,Action Surge,Martial Archetype,Ability Score Improvement,Extra Attack,Indomitable","Fighting Style,Second Wind,Action Surge,Martial Archetype,Ability Score Improvement,Extra Attack,Indomitable","Champion,Dragon Disciple,Conjureblade","Champion,Dragon Disciple,Conjureblade","Hit Dice: 1d10 per fighter level 
+Hit Points at 1st Level: 10 + your Constitution modifier 
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st","Armor: All armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: None
+Saving Throws: Strength, Constitution
+Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival","You start with the following equipment, in addition to the equipment granted by your background:
+(a) chain mail or (b) leather armor, longbow, and 20 arrows
+(a) a martial weapon and a shield or (b) two martial weapons
+(a) a light crossbow and 20 bolts or (b) two handaxes
+(a) a dungeoneer’s pack or (b) an explorer’s pack",,,,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,,,,,,,,,,,,,,,,,,,,,"Fighting Style, Second Wind",Action Surge (one use),Martial Archetype,Ability Score Improvement,Extra Attack,Ability Score Improvement,Martial Archetype feature,Ability Score Improvement,Indomitable (one use),Martial Archetype feature,Extra Attack (2),Ability Score Improvement,Indomitable (two uses),Ability Score Improvement,Martial Archetype feature,Ability Score Improvement,"Action Surge (two uses), Indomitable (three uses)",Martial Archetype feature,Ability Score Improvement,Extra Attack (3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Martial Archetype,"Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+
+Champion
+The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
+
+Improved Critical
+Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
+
+Remarkable Athlete
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus.
+In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+
+Additional Fighting Style
+At 10th level, you can choose a second option from the Fighting Style class feature.
+
+Superior Critical
+Starting at 15th level, your weapon attacks score a critical hit on a roll of 18–20.
+
+Survivor
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.",,
+Monk,monk,Free,SRD,"A disciplined warrior who uses agility and ki to deliver quick, precise strikes and supernatural abilities.
+
+Ideal for players who want to play a nimble character who excels in unarmed combat and movement.","A disciplined warrior who uses agility and ki to deliver quick, precise strikes and supernatural abilities.
+
+Ideal for players who want to play a nimble character who excels in unarmed combat and movement.","A disciplined warrior who uses agility and ki to deliver quick, precise strikes and supernatural abilities.",,,"As a Monk, you gain the following class features.","Unarmored Defense,Martial Arts,Ki,Unarmored Movement,Monastic Tradition,Deflect Missiles,Ability Score Improvement,Slow Fall,Extra Attack,Stunning Strike,Ki-Empowered Strikes,Evasion,Stillness of Mind,Purity of Body,Tongue of the Sun and Moon,Diamond Soul,Timeless Body,Empty Body,Perfect Self","Unarmored Defense,Martial Arts,Ki,Unarmored Movement,Monastic Tradition,Deflect Missiles,Ability Score Improvement,Slow Fall,Extra Attack,Stunning Strike,Ki-Empowered Strikes,Evasion,Stillness of Mind,Purity of Body,Tongue of the Sun and Moon,Diamond Soul,Timeless Body,Empty Body,Perfect Self","Way of the Open Hand,Way of the Ki Guardian,Way of the Unbending Will","Way of the Open Hand,Way of the Ki Guardian,Way of the Unbending Will","Hit Dice: 1d8 per monk level 
+Hit Points at 1st Level: 8 + your Constitution modifier 
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per monk level after 1st","Armor: None
+Weapons: Simple weapons, shortswords
+Tools: Choose one type of artisan’s tools or one musical instrument
+Saving Throws: Strength, Dexterity
+Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a shortsword or (b) any simple weapon
+(a) a dungeoneer’s pack or (b) an explorer’s pack
+10 darts",Unarmored Movement,Ki Points,Martial Arts,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,1d4,1d4,1d4,1d4,1d6,1d6,1d6,1d6,1d6,1d6,1d8,1d8,1d8,1d8,1d8,1d8,1d10,1d10,1d10,1d10,"Unarmored Defense, Martial Arts","Ki, Unarmored Movement","Monastic Tradition, Deflect Missiles","Ability Score Improvement, Slow Fall","Extra Attack, Stunning Strike","Ki-Empowered Strikes, Monastic Tradition feature","Evasion, Stillness of Mind",Ability Score Improvement,Unarmored Movement improvement,Purity of Body,Monastic Tradition feature,Ability Score Improvement,Tongue of the Sun and Moon,Diamond Soul,Timeless Body,Ability Score Improvement,Monastic Tradition feature,Empty Body,Ability Score Improvement,Perfect Self,—,+10 ft.,+10 ft.,+10 ft.,+10 ft.,+15 ft.,+15 ft.,+15 ft.,+15 ft.,+20 ft.,+20 ft.,+20 ft.,+20 ft.,+25 ft.,+25 ft.,+25 ft.,+25 ft.,+30 ft.,+30 ft.,+30 ft.,—,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,Monastic Traditions,"Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
+
+Way of the Open Hand
+Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+
+Open Hand Technique
+Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of 
+
+Blows, you can impose one of the following effects on that target:
+It must succeed on a Dexterity saving throw or be knocked prone.
+It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+It can’t take reactions until the end of your next turn.
+
+Wholeness of Body
+At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+
+Tranquility
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+
+Quivering Palm
+At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.",,
+Paladin,paladin,Free,SRD,"A holy warrior who smites foes with divine magic while protecting allies with healing and defense.
+
+Ideal for players who want to be a righteous protector, mixing healing abilities with powerful melee attacks and holy magic.","A holy warrior who smites foes with divine magic while protecting allies with healing and defense.
+
+Ideal for players who want to be a righteous protector, mixing healing abilities with powerful melee attacks and holy magic.",A holy warrior who smites foes with divine magic while protecting allies with healing and defense.,,,"As a Paladin, you gain the following class features.","Divine Sense,Lay on Hands,Fighting Style,Spellcasting,Divine Smite,Divine Health,Sacred Oath,Ability Score Improvement,Extra Attack,Aura of Protection,Aura of Courage,Improved Divine Smite,Cleansing Touch,Aura of Devotion,Purity of Spirit,Holy Nimbus","Divine Sense,Lay on Hands,Fighting Style,Spellcasting,Divine Smite,Divine Health,Sacred Oath,Ability Score Improvement,Extra Attack,Aura of Protection,Aura of Courage,Improved Divine Smite,Cleansing Touch,Aura of Devotion,Purity of Spirit,Holy Nimbus","Oath of Devotion,Oath of the Crusader,Oath of Destiny","Oath of Devotion,Oath of the Crusader,Oath of Destiny","Hit Dice: 1d10 per paladin level 
+Hit Points at 1st Level: 10 + your Constitution modifier 
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per paladin level after 1st","Armor: All armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: None
+Saving Throws: Wisdom, Charisma
+Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a martial weapon and a shield or (b) two martial weapons
+(a) five javelins or (b) any simple melee weapon
+(a) a priest’s pack or (b) an explorer’s pack
+Chain mail and a holy symbol",,,,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,,,,,,,,,,,,,,,,,,,,,"Divine Sense, Lay on Hands","Fighting Style, Spellcasting, Divine Smite","Divine Health, Sacred Oath",Ability Score Improvement,Extra Attack,Aura of Protection,Sacred Oath feature,Ability Score Improvement,—,Aura of Courage,Improved Divine Smite,Ability Score Improvement,—,Cleansing Touch,Sacred Oath feature,Ability Score Improvement,—,Aura improvements,Ability Score Improvement,Sacred Oath feature,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+Sacred Oaths","Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
+
+Oath of Devotion
+The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+
+Tenets of Devotion
+Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+
+Honesty. Don’t lie or cheat. Let your word be your promise.
+Courage. Never fear to act, though caution is wise.
+Compassion. Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+Honor. Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+Duty. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+Oath Spells
+You gain oath spells at the paladin levels listed.
+
+Oath of Devotion Spells
+
+3rd level: protection from evil and good, sanctuary
+5th level: lesser restoration, zone of truth
+9th level: beacon of hope, dispel magic
+13th level: freedom of movement, guardian of faith
+17th level: commune, flame strike
+
+Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+Sacred Weapon. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration. You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+
+Turn the Unholy. As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.",,
+Psion,psion,Free,Creed's Codex: Legend of the Psions,"Tap into the raw power of the mind to reshape reality, manipulating psychic energy to control enemies or enhance your own abilities.
+
+Ideal for players who want to control the battlefield with psychic powers, bending minds and manipulating energy through the force of their intellect.","Tap into the raw power of the mind to reshape reality, manipulating psychic energy to control enemies or enhance your own abilities.
+
+Ideal for players who want to control the battlefield with psychic powers, bending minds and manipulating energy through the force of their intellect.","Tap into the raw power of the mind to reshape reality, manipulating psychic energy to control enemies or enhance your own abilities.",,,"As a Psion, you gain the following class features.","Psi,Psychic Powers,Unarmored Defense,Fighting Style,Amplifications,Psion Discipline,Ability Score Improvement,Extra Attack,Shared Experience,Eidetic Memory,Renewal,Inner Focus","Psi,Psychic Powers,Unarmored Defense,Fighting Style,Amplifications,Psion Discipline,Ability Score Improvement,Extra Attack,Shared Experience,Eidetic Memory,Renewal,Inner Focus","Chronostride,Ectocraft,Ethershift,Psiforge,Fatesight,Hemokinetic,Dreadweave","Chronostride,Ectocraft,Ethershift,Psiforge,Fatesight,Hemokinetic,Dreadweave","Hit Dice: 1d10 per psion level
+Hit Points at 1st Level: 10 + your Constitution modifier
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per psion level after 1st","Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: None
+Saving Throws: Intelligence, Constitution
+Skills: Choose two from Athletics, Acrobatics, History, Insight, Investigation, and Survival","You start with the following equipment, in addition to the equipment granted by your background:
+- (a) a greataxe or (b) any martial melee weapon
+- (a) two handaxes or (b) any simple weapon
+- An explorer’s pack and four javelins",Psychic Powers,Amplifications,Psi Points,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,"Psi, Psychic Powers, Unarmored Defense","Fighting Style, Amplifications",Psion Discipline,Ability Score Improvement,Extra Attack,Psion Discipline Feature,-,Ability Score Improvement,Shared Experience,-,Psion Discipline Feature,Ability Score Improvement,-,Eidetic Memory,Psion Discipline Feature,Ability Score Improvement,-,Renewal,Ability Score Improvement,Inner Focus,2,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,5,5,5,5,-,2,2,2,3,3,4,4,5,5,6,6,6,7,7,7,8,8,8,9,,,Amplifications,"Base Psion Amplifications
+Foundational
+These amplifications are open to all psions.
+- Elemental Blast (Prerequisite: None): Once per turn, when you deal damage to a creature, you can choose to deal an extra 1d4 acid, cold, fire, lightning, or thunder damage to it.
+- Helping Hand (Prerequisite: None): When you use a Psychic Power and need to make an Intelligence check, you can add your proficiency bonus to the check.
+- Mindmeld (Prerequisite: None): You can speak telepathically to any creature you can see within 30 feet of you. The creature must understand at least one language, but it doesn’t need to be one you share in order to understand you.
+- Modular (Prerequisite: None): During a short rest, you can swap one amplification for another for which you meet the requirements.
+- Psi-Enhanced Durability (Prerequisite: None): When you spend one or more psi points, your AC increases by 1 until the end of your next turn.
+- Psi-Enhanced Mobility (Prerequisite: None): When you spend one or more psi points, your speed increases by 10 feet until the end of your next turn.
+- Psychometry (Prerequisite: None): You have advantage on Intelligence (History) checks related to an object you are touching.
+- Unarmored Defense (Prerequisite: None): These amplifications are available to all psions, but they are suppressed while they wear armor.
+- Elevated Reflexes (Prerequisite: 11th level): You can add your Intelligence modifier to any Athletics or Acrobatics checks you make while you are not wearing armor.
+- Transvection (Prerequisite: 14th level): While you are not wearing armor, you have a flying speed and swimming speed equal to your base movement speed.
+
+Psychic Power Amplifications
+Emotional Manipulation
+These amplifications modify the Emotional Manipulation psychic power, which is a prerequisite for taking these options.
+- Emotional Outreach (Prerequisite: Emotional Manipulation): When you use the Emotional Manipulation power, its range increases by 30 feet.
+- Sixth Sense (Prerequisite: 5th level, Emotional Manipulation): Your Emotional Manipulation capabilities have expanded, heightening your subconscious awareness of the surface-level emotions of those nearby. When rolling initiative, if at least one hostile creature is within a distance equal to the range of your Emotional Manipulation psychic power, you gain a bonus to the roll equal to your Intelligence modifier.
+
+Energy Transmutation
+These amplifications modify the Energy Transmutation psychic power, which is a prerequisite for taking one of these options.
+- Mental Health (Prerequisite: Energy Transmutation): Every time you spend one or more psi points on Energy Transmutation, you regain hit points equal to 1d4 + twice the number of psi points spent.
+- Residual Protection (Prerequisite: 5th level, Energy Transmutation): If your Energy Transmutation completely negates the damage from an attack, the target gains any excess damage reduction as temporary hit points.
+- Guardian’s Resilience (Prerequisite: 7th level, Energy Transmutation): When you use Energy Transmutation on a creature other than yourself, you gain temporary hit points equal to 1d4 + the number of psi points spent on this power.
+
+Force Move
+These amplifications modify the Force Move psychic power, which is a prerequisite for taking these options.
+- Crushing Force (Prerequisite: Force Move): When you move a target with Force Move, you can choose to deal 1d4 force damage to the target.
+- Get Over Here (Prerequisite: 5th level, Force Move): When you take the attack action, you can replace up to one of your attacks with a use of Force Move.
+
+Mind Blast Psychic Power
+These amplifications modify the Mind Blast psychic power, which is a prerequisite for taking these options.
+- Mindward (Prerequisite: Mind Blast): You can create pockets of relative safety within the effects of your Mind Blast psychic power. You can choose a number of creatures that you can see equal to your Intelligence modifier (minimum of one creature). Those creatures automatically succeed on their saves, and they take no damage if they would normally take half damage on a success.
+- Strategic Strike (Prerequisite: 5th level, Mind Blast): When you use Mind Blast, if you spend 1 or more psi points, you deal half damage against any creature that succeeds on its save.
+
+Mind Trick
+These amplifications modify the Mind Trick psychic power, which is a prerequisite for taking these options.
+- Light Touch (Prerequisite: Mind Trick): While modifying a creature’s memory with Mind Trick, you also glean one surface-level thought of the creature.
+- Linguist (Prerequisite: 5th level, Mind Trick): If you spend one or more psi points on Mind Trick, you understand the language you heard, even if you do not normally, and are able to modify it. The listener must still understand the language.
+
+Psionic Equipment
+These amplifications modify the Psionic Equipment psychic power, which is a prerequisite for taking these options.
+- Specialized Equipment (Prerequisite: Psionic Equipment): Your Psionic Equipment is no longer limited to the default psionic weapon and can be used to create any weapon with which you are proficient. If you make a weapon with the range property, the weapon or ammunition returns to you after it hits or misses the target.
+- Adaptive Offense (Prerequisite: 5th level, Psionic Equipment): As a bonus action, you can change the damage type of your Psionic Equipment. Choose from acid, cold, fire, lightning, poison, or psychic. This change lasts until you dismiss it or change it as a bonus action, or you take a long rest.
+- Sharp Mind (Prerequisite: 7th level, Psionic Equipment): Your psi weapons gain a +1 bonus to attack and damage rolls. Your psi shield gains a +1 bonus to AC.
+- Cutting Wit (Prerequisite: 11th level, Psionic Equipment): When you hit a creature with a psionic weapon, the creature takes extra psychic damage equal to your Intelligence modifier (minimum 1).
+
+Subclass Amplifications
+Chronostride Discipline
+These amplifications are only available to chronostriders.
+- Temporal Reset (Prerequisite: 5th level, chronostride subclass): You can use Chrono Alteration as a bonus action.
+- Accelerated Mastery (Prerequisite: 20th level, chronostride subclass): Upon using Rapid Assimilation, you can choose to gain proficiency in a single language, skill, or tool. This proficiency lasts until you complete a long rest.
+
+Ectocraft Discipline
+These amplifications are only available to ectocrafters.
+- Protective Terrain (Prerequisite: 5th level, ectocraft subclass): When a creature within 30 feet of your terrain takes damage, you can use your reaction to interpose the terrain between the creature and the source of the damage. The terrain absorbs an amount of damage up to your psion level plus your Intelligence modifier. The terrain vanishes, and the creature takes any remaining damage.
+- Terrain Ensnarement (Prerequisite: 20th level, ectocraft subclass): If a creature moves through terrain you have created with your Create Terrain psychic power, you can force it to make a Strength check contested by your Intelligence check. If it fails, the creature is restrained. A restrained creature can use its action to attempt to escape. To do so, it must succeed on a Strength check contested by your Intelligence check.
+
+Hemokinetic 
+- Haematic Ascension (Prerequisite: 5th level, Hemokinetic subclass):  You gain a additional Bloodtether benefit: Lifeblood. As an action, you can spend 1 psi point and choose to take necrotic damage up to an amount equal to your remaining hit points; this damage can’t be reduced in any way. The creature regains a number of hit points equal to the necrotic damage you took. You gain an additional Bloodwright benefit: Blood Wings. When you fall or jump, you can use a reaction to manifest a pair of wings. These wings grant you hover and a fly speed equal to 10 feet x your proficiency bonus.
+- Bloodharvest (Prerequisite: 20th level, Hemokinetic subclass): You can spend 1 minute to use Exsanguination (see the Bloodtether feature) on the corpse of a Large or larger creature that has been dead for no more than 1 day and hasn’t already been subjected to Exsanguination."
+Ranger,ranger,Free,SRD,"A master of survival and hunting, skilled in combat, nature magic, and tracking enemies.
+
+Ideal for players who want to play a skilled hunter, expert in both ranged and close combat, with a strong connection to nature.","A master of survival and hunting, skilled in combat, nature magic, and tracking enemies.
+
+Ideal for players who want to play a skilled hunter, expert in both ranged and close combat, with a strong connection to nature.","A master of survival and hunting, skilled in combat, nature magic, and tracking enemies.",,,"As a Ranger, you gain the following class features.","Favored Enemy,Natural Explorer,Fighting Style,Spellcasting,Ranger Archetype,Primeval Awareness,Ability Score Improvement,Extra Attack,Land’s Stride,Hide in Plain Sight,Vanish,Feral Senses,Foe Slayer","Favored Enemy,Natural Explorer,Fighting Style,Spellcasting,Ranger Archetype,Primeval Awareness,Ability Score Improvement,Extra Attack,Land’s Stride,Hide in Plain Sight,Vanish,Feral Senses,Foe Slayer","Hunter,Provocateur,Urban Sentinel","Hunter,Provocateur,Urban Sentinel","Hit Dice: 1d10 per ranger level 
+Hit Points at 1st Level: 10 + your Constitution modifier 
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per ranger level after 1st","Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: None
+Saving Throws: Strength, Dexterity
+Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival","You start with the following equipment, in addition to the equipment granted by your background:
+(a) scale mail or (b) leather armor
+(a) two shortswords or (b) two simple melee weapons
+(a) a dungeoneer’s pack or (b) an explorer’s pack
+A longbow and a quiver of 20 arrows",,,Spells Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,—,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,"Favored Enemy, Natural Explorer","Fighting Style, Spellcasting","Ranger Archetype, Primeval Awareness",Ability Score Improvement,Extra Attack,Favored Enemy and Natural Explorer improvements,Ranger Archetype feature,"Ability Score Improvement, Land's Stride",—,"Natural Explorer improvement, Hide in Plain Sight",Ranger Archetype feature,Ability Score Improvement,—,"Favored Enemy improvement, Vanish",Ranger Archetype feature,Ability Score Improvement,—,Feral Senses,Ability Score Improvement,Foe Slayer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ranger Archetypes,"A classic expression of the ranger ideal is the Hunter. Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+
+Hunter’s Prey
+
+At 3rd level, you gain one of the following features of your choice.
+
+Colossus Slayer
+Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+Giant Killer
+When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+Horde Breaker
+Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+
+Defensive Tactics
+
+At 7th level, you gain one of the following features of your choice.
+
+Escape the Horde
+Opportunity attacks against you are made with disadvantage.
+Multiattack Defense
+When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+Steel Will
+You have advantage on saving throws against being frightened.
+
+Multiattack
+
+At 11th level, you gain one of the following features of your choice.
+
+Volley
+You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+Whirlwind Attack
+You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+
+Superior Hunter’s Defense
+
+At 15th level, you gain one of the following features of your choice.
+
+Evasion
+When you are subjected to an effect, such as a red dragon’s fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Stand Against the Tide
+When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+Uncanny Dodge
+When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.",,
+Rogue,rogue,Free,SRD,"Strike from the shadows with stealth and cunning, dealing massive damage through sneak attacks.
+
+Ideal for players who want to play a cunning, stealthy character who thrives on precision strikes and tactical gameplay.","Strike from the shadows with stealth and cunning, dealing massive damage through sneak attacks.
+
+Ideal for players who want to play a cunning, stealthy character who thrives on precision strikes and tactical gameplay.","Strike from the shadows with stealth and cunning, dealing massive damage through sneak attacks.",,,"As a Rogue, you gain the following class features.","Expertise,Sneak Attack,Thieves’ Cant,Cunning Action,Roguish Archetype,Ability Score Improvement,Uncanny Dodge,Evasion,Reliable Talent,Blindsense,Slippery Mind,Elusive,Stroke of Luck","Expertise,Sneak Attack,Thieves’ Cant,Cunning Action,Roguish Archetype,Ability Score Improvement,Uncanny Dodge,Evasion,Reliable Talent,Blindsense,Slippery Mind,Elusive,Stroke of Luck","Thief,Nightshade,Wraith","Thief,Nightshade,Wraith","Hit Dice: 1d8 per rogue level 
+Hit Points at 1st Level: 8 + your Constitution modifier 
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per rogue level after 1st","Armor: Light armor
+Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Tools: Thieves’ tools
+Saving Throws: Dexterity, Intelligence
+Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a rapier or (b) a shortsword
+(a) a shortbow and quiver of 20 arrows or (b) a shortsword
+(a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
+Leather armor, two daggers, and thieves’ tools",,,Sneak Attack,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,1d6,1d6,2d6,2d6,3d6,3d6,4d6,4d6,5d6,5d6,6d6,6d6,7d6,7d6,8d6,8d6,9d6,9d6,10d6,10d6,"Expertise, Sneak Attack, Thieves' Cant",Cunning Action,"Roguish Archetype, Steady Aim (Optional)",Ability Score Improvement,Uncanny Dodge,Expertise,Evasion,Ability Score Improvement,Roguish Archetype feature,Ability Score Improvement,Reliable Talent,Ability Score Improvement,Roguish Archetype feature,Blindsense,Slippery Mind,Ability Score Improvement,Roguish Archetype feature,Elusive,Ability Score Improvement,Stroke of Luck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Roguish Archetypes,"Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
+
+Thief
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+
+Fast Hands
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
+
+Second-Story Work
+When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+
+Supreme Sneak
+Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+
+Use Magic Device
+By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
+
+Thief’s Reflexes
+When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.",,
+Sorcerer,sorcerer,Free,SRD,"Wield innate magical power with spontaneity, casting powerful spells without the need for study.
+
+Ideal for players who want explosive magical power with a flexible casting style.","Wield innate magical power with spontaneity, casting powerful spells without the need for study.
+
+Ideal for players who want explosive magical power with a flexible casting style.","Wield innate magical power with spontaneity, casting powerful spells without the need for study.",,,"As a Sorcerer, you gain the following class features.","Spellcasting,Sorcerous Origin,Font of Magic,Metamagic,Ability Score Improvement,Sorcerous Restoration","Spellcasting,Sorcerous Origin,Font of Magic,Metamagic,Ability Score Improvement,Sorcerous Restoration","Draconic Bloodline,Astral Sorcery","Draconic Bloodline,Astral Sorcery","Hit Dice: 1d6 per sorcerer level 
+Hit Points at 1st Level: 6 + your Constitution modifier 
+Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st","Armor: None
+Weapons: Daggers,	darts,	slings,	quarterstaffs,	light	
+crossbows
+Tools:	None
+Saving	Throws: Constitution,	Charisma
+Skills: Choose	two	from	Arcana,	Deception,	Insight,	
+Intimidation,	Persuasion,	and	Religion","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a light crossbow and 20 bolts or (b) any simple weapon
+(a) a component pouch or (b) an arcane focus
+(a) a scholar’s pack or (b) a dungeoneer’s pack
+Leather armor, any simple weapon, and two daggers",Spells Known,Sorcery Points,Cantrips Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,4,4,4,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,6,"Spellcasting, Sorcerous Origin",Font of Magic,Metamagic,Ability Score Improvement,-,Sorcerous Origin feature,-,Ability Score Improvement,-,Metamagic,-,Ability Score Improvement,-,Sorcerous Origin feature,-,Ability Score Improvement,Metamagic,Sorcerous Origin feature,Ability Score Improvement,Sorcerous Restoration,2,3,4,5,6,7,8,9,10,11,12,12,13,13,14,14,15,15,15,15,-,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,Sorcerous Origins,"Different sorcerers claim different origins for their innate magic, such as a draconic bloodline.
+
+Draconic Bloodline
+
+Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+
+Dragon Ancestor
+
+At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
+
+Draconic Ancestry
+
+Dragon Damage Type
+Black Acid
+Blue Lightning
+Brass Fire
+Bronze Lightning
+Copper Acid
+Gold Fire
+Green Poison
+Red Fire
+Silver Cold
+White Cold
+You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+
+Draconic Resilience
+
+As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
+
+Elemental Affinity
+
+Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
+
+Dragon Wings
+
+At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+
+Draconic Presence
+
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+
+
+
+
+",,
+Summoner,summoner,Free,Creed's Codex: Arcane Secrets of the Summoners,"Summon powerful creatures to help your allies and fight your foes.
+
+Ideal for players who want to play a character that summons a powerful companion, commanding it in battle while wielding magic to support or enhance its abilities.","Summon powerful creatures to help your allies and fight your foes.
+
+Ideal for players who want to play a character that summons a powerful companion, commanding it in battle while wielding magic to support or enhance its abilities.",Summon powerful creatures to help your allies and fight your foes.,Convergence Table,"d100 - Effect
+- 1 - Roll twice and apply both effects. If this comes up again, nothing happens.
+- 2 - A missive suddenly appears in your hand. A powerful, wealthy, beautiful individual is imprisoned under a false identity. Revealing their identity will have serious repercussions, and they are relying upon you to raise money and secure their release. You will be handsomely rewarded and given access to magical secrets in a secret vault. The initial funds have already been magicked off your person in an amount equal to all the money you were carrying. The following missive will arrive as soon as you have accumulated enough funds with further instructions.
+- 3 - You gain 5 levels of exhaustion.
+- 4 - The ground you're standing on abruptly juts up into the air at an angle. A seismic shift is tearing your location apart as rivulets of lava begin bubbling to the surface in a one-mile radius around you.
+- 5 - You cast Shadow Rift (see page 116).
+- 6 - You automatically fail all ability checks until you finish a long rest.
+- 7 - The next time you take damage, you are knocked unconscious for 1d4 hours. You can only be awoken early by the Greater Restoration spell. While unconscious, you glimpse a potential future where you have failed a vital task not yet laid upon you.
+- 8 - A ghostly bagpipe quartet follows you around for 1d12 days, loudly playing the songs of their people.
+- 9 - For the next 1d12 days, you suddenly look incredibly shifty and are thoroughly questioned by all officials who see you. If there are unresolved crimes in the area, you immediately become the prime suspect.
+- 10 - You lose any remaining hit dice.
+- 11 - You lose the ability to walk on the ground but gain a hover speed equal to your previous speed. A halo appears above your head and can't be hidden by any means. A trumpeting fanfare accompanies you. Every humanoid feels obligated to ask for your blessing while simultaneously feeling a burning hatred for you. These changes last until you take a long rest.
+- 12 - A hostile CR 1d10 creature appears in an unoccupied space 1d100 feet away from you. It lasts until it drops to 0 hit points.
+- 13 - Extended family you were only vaguely aware of are in desperate need of money and find you every time you take a long rest until you've resolved their money woes.
+- 14 - All of the party’s gold, precious stones, and other monetary objects are magically transported into a bag of holding tangled in the antlers of a sacred giant elk that appears within sight of the party. The elk immediately takes off, sprinting away from the party.
+- 15 - A sinkhole suddenly opens at your feet. You fall 1d100 feet, taking 1d6 bludgeoning damage for each 10 feet that you plummet. At the bottom, you find an imprisoned creature.
+- 16 - Until you take a long rest, treat a natural 20 as a 1.
+- 17 - You become obsessed with an idea for a magical creation and spend the next week attempting to create a magical artifact. You spend all your money and attempt to borrow funds from others on materials to create this artifact.
+- 18 - You are suddenly holding a box, which you are unable to put down, covered in 10 powerful glyphs of danger. A warning glows across the top of the box that says, “Do not open.” Each round, one of the glyphs stops glowing.
+- 19 - All your ability scores become 10 until you complete a long rest.
+- 20 - You believe your teeth are sentient and start talking to them until you take a long rest. You have disadvantage on all Intelligence, Charisma, and Wisdom saving throws during this time.
+- 21 - An enormous ape appears out of nowhere and smashes you with a boulder dealing 1d8 per character level bludgeoning damage before disappearing.
+- 22 - The three nearest allies fall into a magical sleep for 3 rounds unless they take damage or someone uses an action to shake the sleeper awake. For each round they sleep, they may spend 1 hit dice. If they sleep all 3 rounds, they gain the benefits of a short rest.
+- 23 - The prized possession of a powerful creature is transported to the closest town to your location. The creature is aware of the general location of their possession.
+- 24 - A portal opens in the nearest unoccupied space next to you to a random location determined by the GM. You are unable to close it.
+- 25 - You become oppressed by an evil spirit. The spirit lasts until you complete a long rest, though you do not gain the benefits of the long rest as it torments you through the night. While oppressed, you are inflicted with the deafened and poisoned conditions. If you successfully grapple a target while oppressed, the target must succeed on a Constitution saving throw equal to your spell save DC, or the spirit leaves you and oppresses the grappled target instead.
+- 26 - You suddenly struggle to think. You are knocked prone and can't use bonus actions until you complete a long rest.
+- 27 - Your mind is overwhelmed. Until you take a long rest, you are unable to recall any words longer than 4 letters or cast spells that have a verbal component.
+- 28 - You feel extreme lethargy overcoming your body. Every round, you must succeed on a Constitution saving throw at the end of your turn or become stunned for 1d4 hours. The DC for the save starts at 1, incrementing by 1 every round.
+- 29 - You can now only speak in limericks, riddles, or proverbs until you finish a long rest.
+- 30 - An antimagic field radiates from you in a 10ft radius. This effect lasts until you lose hit points. If you had a summon up, this effect represses the summon.
+- 31 - The convergence needs more power and immediately uses the highest level spell slot of the closest creature to you with remaining spell slots. You gain additional summoner points that can be spent on the enhance summon feature equal to the spell slot. The creature who lost their spell slot immediately knows it was consumed by you and can unerringly track you for the next 1d4 days.
+- 32 - A fey that only you can see appears in an adjacent space and badgers you for a debt you owe for a transgression against the fey. It will continue badgering you until the debt is resolved. 
+- 33 - A coconut falls from the sky directly onto your head, dealing 1d6 bludgeoning damage and knocking you prone.
+- 34 - Until you take a short or long rest, your Strength ability score increases to 24, and your Intelligence ability score decreases to 6.
+- 35 - Whenever you or a creature you can hear tells a lie, a small mouth appears on your body and screams, ""They are lying!"" until you finish a long rest.
+- 36 - You are immediately the subject of the Maze spell for up to 10 minutes. If you succeed on your first check, you catch a glimpse into the mind of someone key to a current or future quest and gain knowledge of one crucial detail.
+- 37 - A pillar of stone bursts from the ground in your space, raising you 30 feet into the air. If you collide with a solid object, you take 1d6 damage for every 10 feet traveled and are restrained. The pillar has an AC of 5 and 30 hit points. When reduced to 0 hit points, it collapses back into the earth.
+- 38 - A set of earthen spikes erupt from the ground creating a glowing sigil in every unoccupied space within 60 feet of you. The spaces count as difficult terrain and deal 2d4 piercing damage whenever a creature enters the space. You do not know what the sigil does or means. The spikes have an AC of 15 and 30 hit points. They last until destroyed.
+- 39 - The seventh stranger you encounter tells you an ancient secret before he perishes from a giant fist bursting through the ground and pulling him into a molten pool of lava.
+- 40 - An explosion of force energy catapults your closest ally at the furthest enemy within 150ft. For each 10 feet traveled, the ally deals 1d10 bludgeoning damage to the enemy upon impact. The ally takes 1d4 damage for every 10 feet that were traveled. If no enemies are in range, the ally is pushed into the ground up to their neck and restrained until freed by a Strength (Athletics) check against your spell save DC.
+- 41 - You become immune to the frightened condition. The next time you lose hit points, you lose this immunity and immediately become frightened until you finish a short or long rest.
+- 42 - You immediately disappear into the ground and are undetectable by non-magical means. You reappear in your current space at the beginning of your next turn. If your space is now occupied, you remain underground but move 5 feet to the south. At the beginning of your next turn, you attempt to reappear. If something is still in your space, you continue this sequence until you can appear in an unoccupied space.
+- 43 - Light radiates from you for 1 minute. Enemies within 5 feet have disadvantage on their attacks, and you have advantage on attacks against them. Enemies further than 5 feet have advantage on attacks against you.
+- 44 - The ground shakes beneath your feet. Everyone within 20 feet of you, including you, must make a Strength saving throw equal to your spell DC or fall prone. You have advantage on the saving throw. All creatures concentrating on a spell affected by this effect must make a Concentration check.
+- 45 - A random object flies in a random direction determined by the GM.
+- 46 - You and a random enemy chosen by the GM swap locations.
+- 47 - Your mind is momentarily connected to an aberration of a CR equal to half your level. You gain knowledge of this aberration. This gives you either the necessary knowledge to create a summoning formula for the Aberration if you have a feature to summon it or a +1 bonus to a skill of your choice with which you are not proficient. You then take psychic damage equal to your level.
+- 48 - You sprout an uncontrollable tentacle out of your back. It grapples the nearest creature within 10 feet. The creature, or one within 5 feet of it, can spend an action to attempt to escape the grapple with a Strength (Athletics) check against your spell save DC. If it is not grappling something, it will attempt to grapple a target on each of your turns before you perform any actions. The tentacle lasts for 1 minute.
+- 49 - Every creature within 30 feet of you is shoved 30 feet away from you and knocked prone. You are launched 30 feet straight up and if a solid object, such as a ceiling, is encountered you suffer fall damage before falling back down and suffering fall damage again. Any objects not attached to something, being carried, or worn are shoved 100 feet away from you.
+- 50 - You recognize the clothing styles of the nearest creature and gain advantage on any history checks related to the area for the next minute.
+- 51 - A mage hand pokes the two nearest creatures in the eye. They take 2 piercing damage each.
+- 52 - A tiny celestial and fiend appears on the opposite shoulders of a random creature within 30 feet of you. They suggest opposing courses of action until the target follows a suggestion by one of them, at which point they swap opinions and argue for another minute before disappearing.
+- 53 - You permanently have swirling eddies of light under your skin, providing dim light for 10 feet. Increase the distance by 10 feet if this effect comes up again.
+- 54 - Your next attack that hits does twice as much damage, but you also take half the total damage.
+- 55 - You determine you are the chosen one. Until you take damage, you deal an additional 1d10 damage each time you or your summon damages an enemy. When you take damage, the effect ends, and you take an additional 2d10 damage.
+- 56 - Two objects in your possession suddenly break out in a heated argument in infernal. Any creature within 60 feet can clearly hear the dispute.
+- 57 - All creatures reroll initiative. If not in combat, you gain advantage on your next initiative roll.
+- 58 - Until you finish a short or long rest, you swap places with a random creature within 60 feet of you at the start of your turn.
+- 59 - Until you finish a long rest, every action you do is followed by an exaggerated sound effect. It is said failures can elicit the fabled horns of disappointment.
+- 60 - 4d20 gems, value 10 gp each, shoot equally distributed at each creature within 60 feet, including you. Each gem deals 1 point of slashing damage.
+- 61 - The area around you in a 15-foot cube becomes difficult terrain that lasts for the next minute.
+- 62 - A splinter of force magic strikes every target you can see, dealing force damage equal to your proficiency bonus.
+- 63 - You and your summons gain 1d4 temporary hit points.
+- 64 - The thoughts of all creatures within 10 feet of you, including you, become audible until you take a short or long rest.
+- 65 - Ice falls from the sky in every square touching yours. All other creatures take your proficiency bonus bludgeoning damage and are in difficult terrain.
+- 66 - You heal a number of hit points equal to 5 times your character level as small green mushrooms and leaves sprout along your body. You are poisoned until you take a short or long rest as a dark yellowish cloud of mushroom spores permeates the air within 5 feet of you. Any creature within 5 feet of you is also poisoned.
+- 67 - For a number of rounds equal to your Constitution modifier, all your movement speeds increase by 20 feet as time warps around you. When the effect ends, all your movement speeds decrease by 20 feet for a number of rounds equal to your Constitution modifier as time catches up.
+- 68 - You identify the next spell targeting you and gain advantage on avoiding it or cause the caster to have disadvantage on the casting.
+- 69 - You accidentally seduce the next creature you lock eyes with.
+- 70 - When you make an ability check, if your total for the check is less than your ability score, you can use that score instead of the total. This lasts until you take a long rest.
+- 71 - You feel inspired and gain inspiration.
+- 72 - A rainbow appears in the sky from your location to a spot directly north of you 1d100 miles away, where a pot of gold worth 20d100 gold pieces is hidden. The rainbow lasts until you take a short or long rest.
+- 73 - The nearest friendly creature grows two sizes larger. This lasts until you take a long rest.
+- 74 - Every ally you can see gains 1 hit point. If that puts them over their max hit point, they gain 1 temporary hit point. If they are unconscious, they wake up with 1 hit point.
+- 75 - Your body is suddenly covered by intricate tattoos of stylized words in a language you can’t read, with an exquisitely detailed building you don’t recognize depicted on your chest.
+- 76 - You gain the ability to smell gold within 10 feet. Increase the distance by 10 feet every time this effect comes up.
+- 77 - You have advantage on Intelligence-based checks until you take a long rest.
+- 78 - The next time you take your turn, you have an additional action.
+- 79 - You suddenly give off an air of authority. For the next 1d12 days, people will involve you in all manner of activities to get your opinion and support.
+- 80 - A clone of you appears in every unoccupied space adjacent to you. The clones have 1 hit point, mimic your every movement, and last until you take a short or long rest.
+- 81 - Your vision momentarily enhances, allowing you to catch a glimpse of a reflection, light, or similar visual phenomenon that looks out of place. Your vision then reverts to its normal state.
+- 82 - The next time someone within earshot brags about an achievement, they immediately have explosive diarrhea.
+- 83 - You suddenly feel an increased weight on your person and discover an additional 10d100 gold pieces.
+- 84 - Leaves sprout all over your body, and you can only feel at ease in nature. You have advantage on Wisdom checks until you take a long rest. Once every hour, a friendly beast brings you a gift. You are unable to take a long rest unless your body is buried up to your neck in loose earth.
+- 85 - You summon a force warrior. See stats for tribal warrior and add force resistance. This creature has its own turn in combat, is friendly to you and your allies, and remains until you take a long rest or it drops to 0 hit points.
+- 86 - You telepathically hear a message that you have been included in the will of a powerful wizard. To participate, you must be in his tower at the solar eclipse, which occurs 21 days from now. You feel a pull in the direction of the tower.
+- 87 - You immediately spend 1 hit dice. If you are already at full health, you gain that many temporary hit points, otherwise heal for the amount rolled.
+- 88 - A friendly CR 1d10 creature appears in an unoccupied space 1d100 spaces away from you. It lasts until it drops to 0 hit points, or you take a long rest.
+- 89 - All your ability scores become 20 until you complete a long rest.
+- 90 - You fill your enemies with dread. Every enemy that can see you has their movement speed reduced by 50% for 1 minute.
+- 91 - The next shopkeeper you see gives you a treasure map and a magical compass to help you find the treasure.
+- 92 - You gain 5 temporary hit points for each hostile creature you can see, which creates a brightly glowing shield on you, providing bright light in a 50-foot radius and dim light for an additional 50 feet. The light lasts as long as you have the temporary hit points.
+- 93 - You gain a fly speed of 30 feet that lasts until you take a short or long rest.
+- 94 - You are mistaken for a local hero that hasn't been seen in a few years. You pay half prices while in the vicinity and have advantage on persuasion checks.
+- 95 - The next time you fail an ability check, you instead succeed.
+- 96 - The next attack you or your summon makes that deals damage is a critical hit.
+- 97 - An image, sentence, or sense immediately comes to mind, providing critical insight into something in the near future.
+- 98 - You suddenly feel a pull to the closest legendary item and can use this feeling to navigate towards it. This lasts until you finish a long rest.
+- 99 - You are under the effects of the foresight spell until you take a long rest.
+- 100 - You may choose which effect you'd like to take place.
+","As a Summoner, you gain the following class features.","Focused Power,Spellcasting,Force Augments,Enhance Summon,Point of Convergence,Field of Study,Ability Score Improvement,Enlist Logic,Cognitive Overload,Mind Barrier,Organized Memory,Resourceful Mind","Focused Power,Spellcasting,Force Augments,Enhance Summon,Point of Convergence,Field of Study,Ability Score Improvement,Enlist Logic,Cognitive Overload,Mind Barrier,Organized Memory,Resourceful Mind","Archon,Colossus,Convergent,Evolutionist,Hivemind,Horrifier,Shadow,Specialist","Archon,Colossus,Convergent,Evolutionist,Hivemind,Horrifier,Shadow,Specialist","Hit Dice: 1d8 per summoner level
+Hit Points at 1st Level: 8 + your Constitution modifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per summoner level after 1st","Armor: Light armor, shields
+Weapons: Simple weapons
+Tools: None
+Saving Throws: Intelligence, Constitution
+Skills: Choose two from Arcana, History, Investigation, Nature, and Religion","You start with the following equipment, in addition to the equipment granted by your background:
+• Light crossbow and 20 bolts
+• (a) a component pouch or (b) an arcane focus
+• (a) dungeoneer's pack or (b) a scholar’s pack
+• Leather armor, any simple weapon, and a shield",Cantrips Known,Augments Known,Summoner Points,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,"Focused Power, Spellcasting","Force Augments, Enhance Summon","Point of Convergence, Field of Study",Ability Score Improvement,Enlist Logic,Field of Study,Cognitive Overload,Ability Score Improvement,—,Field of Study,Mind Barrier,Ability Score Improvement,—,Organized Memory,—,Ability Score Improvement,Field of Study,—,Ability Score Improvement,Resourceful Mind,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,-,2,2,2,3,4,4,4,5,5,5,5,6,6,7,7,7,8,8,8,,,Force Augments,"'- Aegis of the Elders: The temporary hit points granted by the Aegis cantrip are now equal to twice your level plus your Intelligence modifier.
+
+- Behemoth (Prerequisite: Colossus Subclass): You can increase the size of your summon up to gargantuan and increase its health by your summoner level.
+
+- Chimera Claws (Prerequisite: 5th level, Archon Subclass): You can attack twice whenever you take the attack action on your turn.
+
+- Constant Companions: Your summoned creatures no longer disappear when you take a short or long rest. Instead, summons from the summon creature feature regain all lost hit points after a short or long rest. However, you do not regain the summoner points needed to sustain them. If a point of convergence is required, roll on the convergence table at the end of the rest to maintain the summons.
+
+- Constructive Criticism: When a creature fails an ability check, you can use a reaction to offer advice, granting them advantage on their next ability check, though they may become hostile towards you at the GM’s discretion. A creature can be affected by this only once per long rest.
+
+- Creature Displacement (Prerequisite: 6th level): As a bonus action, you can switch places with a summon you can see. If the spaces are occupied, you appear in the nearest unoccupied spaces.
+
+- Dread Manifest (Prerequisite: Horrifier Subclass): As a bonus action, expend one summoner point to create a fearful appearance. Choose creatures within 60 feet that you can see and that can see you, up to your Intelligence modifier. They must make a Wisdom saving throw. On a failure, each creature gains 10 movement speed and uses its reaction to move away from you without provoking opportunity attacks. The movement speed boost ends once they finish moving. This feature can be used again after a short or long rest.
+
+- Elemental Fury: As a bonus action, imbue your summons with elemental power. Choose acid, cold, fire, lightning, poison, or thunder. Your summons gain resistance to the chosen element, and their damage type changes to it. This lasts until dismissed as a bonus action or until a short or long rest.
+
+- Energy Rebirth (Prerequisite: Convergent Subclass): When a creature dies within 60 feet, roll a d20. On a 20, roll on the convergent summoning tables as if you spent 1 summoner point, summoning a creature in the corpse's square or the nearest unoccupied square. This does not consume summoner points, does not count against the maximum number of summons, nor can a summon dropping below 1 hit point trigger this.
+
+- Enhanced Sense: Spend 1 summoner point and a bonus action to enhance one of your senses, granting you advantage on related checks until you complete a short or long rest.
+
+- Environmental Model: You can be informed of the DC of a check before attempting it or spending 1 summoner point to gain advantage on the check. You can use this ability a number of times equal to your Intelligence modifier, with all uses refreshing on a long rest.
+
+- Expanded Enhancement (Prerequisite: Archon Subclass): You can apply the second-level feature, Enhance Summon, to yourself and your allies. You can maintain this enhancement on a number of allies up to your proficiency bonus, but each ally can only be enhanced once. The enhancement lasts until you take a short or long rest or lose consciousness.
+
+- Experienced Danger: You have advantage on detecting any illusion spells or traps you've encountered previously.
+
+- Far-flung Vision: Increases your summoning distance to 100 feet.
+
+- Forceful Intellect: Gain proficiency in History and Investigation. In games of skill, you have advantage on related checks.
+
+- Harvest Remnants (Prerequisite: 6th level): When dismissing a summon as a bonus action, you can form a shield for a chosen target, granting temporary hit points equal to your Intelligence (Arcana) check. These hit points last until the target completes a short or long rest.
+
+- Kinsight (Prerequisite: Specialist Subclass): You can cast detect thoughts without expending a spell slot and requiring no material components, but only against your chosen creature type.
+
+- Life Siphon: When you or a summon damages another creature, you can use a reaction to heal a creature you can see for an amount equal to your Intelligence modifier. You can do this a number of times equal to your proficiency bonus, with uses refreshing on a long rest.
+
+- Long Hours (Prerequisite: Level 8): Gain expertise in Arcana, History, Investigation, Nature, or Religion. If you're not proficient in the skill, you instead gain proficiency. This amplification can be taken multiple times with different skills.
+
+- Mental Shout: Increases the distance at which you can mentally command your summons to 500 feet.
+
+- Mind’s Eye: You can enter a trance to perceive through a summon’s senses as if they were your own. If you have more than one summon, choose one, and you can switch summons with a bonus action. While in this trance, you lose your own sight and hearing. Exit the trance as a bonus action or when you take damage.
+
+- Permeable Beings (Prerequisite: Hivemind Subclass): You can designate a number of creatures, up to your Intelligence modifier, to pass through your summons and end their turn in the same space without hindrance.
+
+- Primal Connection (Prerequisite: Evolutionist Subclass): Your eidolon can use your skill and tool modifiers instead of its own and shares your proficiency and expertise in any skills or tools.
+
+- Razor Edge (Prerequisite: 6th Level): Your summons' attacks count as magical for overcoming resistance and immunity to nonmagical attacks and damage.
+
+- Reality Imagined: Spend 1 summoner point and a bonus action to create a tool out of force magic. You gain proficiency with the tool, even if you don't usually have it. The tool lasts until you complete a short or long rest.
+
+- Specialty Knowledge: Choose a creature type (e.g., Aberration, Beast, Celestial). For the chosen type, you have advantage on rolls to learn new summon formulas, and research time to develop a formula is halved.
+
+- Spike of the Ancients: The damage dealt by the Spike cantrip is now equal to twice your level plus your Intelligence modifier.
+
+- Talking Shadows (Prerequisite: Shadow Subclass): You can cast Magic Mouth at will without using a spell slot or material components.
+
+- Unleashed Chaos: When you or your summon damages a creature concentrating on a spell, the creature makes the Concentration check with disadvantage."
+Warlock,warlock,Free,SRD,"Channel otherworldly power granted by a patron, gaining unique spells and invocations.
+
+Ideal for players who want to play a character with mysterious powers, granted through a pact with a powerful entity, and a customizable magical repertoire.","Channel otherworldly power granted by a patron, gaining unique spells and invocations.
+
+Ideal for players who want to play a character with mysterious powers, granted through a pact with a powerful entity, and a customizable magical repertoire.","Channel otherworldly power granted by a patron, gaining unique spells and invocations.",,,"As a Warlock, you gain the following class features.","Otherworldly Patron,Pact Magic,Eldritch Invocations,Pact Boon,Ability Score Improvement,Mystic Arcanum,Eldritch Master","Otherworldly Patron,Pact Magic,Eldritch Invocations,Pact Boon,Ability Score Improvement,Mystic Arcanum,Eldritch Master","Fiend,The Eldermind,The Clippy","Fiend,The Eldermind,The Clippy","Hit Dice: 1d8 per warlock level 
+Hit Points at 1st Level: 8 + your Constitution modifier 
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per warlock level after 1st","Armor: Light armor
+Weapons: Simple weapons
+Tools: None
+Saving Throws: Wisdom, Charisma
+Skills: Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a light crossbow and 20 bolts or (b) any simple weapon
+(a) a component pouch or (b) an arcane focus
+(a) a scholar’s pack or (b) a dungeoneer’s pack
+Leather armor, any simple weapon, and two daggers",Spells Known,Spell Slots,Cantrips Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,"Otherworldly Patron, Pact Magic",Eldritch Invocations,Pact Boon,Ability Score Improvement,-,Otherworldly Patron feature,-,Ability Score Improvement,-,Otherworldly Patron feature,Mystic Arcanum (6th level),Ability Score Improvement,Mystic Arcanum (7th level),Otherworldly Patron feature,Mystic Arcanum (8th level),Ability Score Improvement,Mystic Arcanum (9th level),-,Ability Score Improvement,Eldritch Master,2,3,4,5,6,7,8,9,10,10,11,11,12,12,13,13,14,14,15,15,1,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,Otherworldly Patrons,"The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return. Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
+
+The Fiend
+
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
+
+Expanded Spell List
+
+The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+Fiend Expanded Spells
+
+1st Level: burning hands, command
+2nd Level: blindness/deafness, scorching ray
+3rd Level: fireball, stinking cloud
+4th Level: fire shield, wall of fire
+5th Level: flame strike, hallow
+Dark One’s Blessing
+
+Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
+
+Dark One’s Own Luck
+
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll’s effects occur. Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+Fiendish Resilience
+
+Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
+
+Hurl Through Hell
+
+Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape. At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience. Once you use this feature, you can’t use it again until you finish a long rest.
+
+Your Pact Boon
+
+Each Pact Boon option produces a special creature or an object that reflects your patron’s nature.
+
+Pact of the Chain: Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with imps and quasits tied to the Fiend.
+Pact of the Blade: If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames.
+Pact of the Tome: Your Book of Shadows could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend.
+
+
+
+",Eldritch Invocations,"If an Eldritch Invocation Has Prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+- Agonizing Blast (Prerequisite: Eldritch blast cantrip): When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
+- Armor of Shadows: You can cast mage armor on yourself at will, without expending a spell slot or material components.
+- Ascendant Step (Prerequisite: 9th level): You can cast levitate on yourself at will, without expending a spell slot or material components.
+- Beast Speech: You can cast speak with animals at will, without expending a spell slot.
+- Beguiling Influence: You gain proficiency in the Deception and Persuasion skills.
+- Bewitching Whispers (Prerequisite: 7th level): You can cast compulsion once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Book of Ancient Secrets (Prerequisite: Pact of the Tome feature): You can inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. You can cast the chosen spells as rituals. You can also cast a warlock spell you know as a ritual if it has the ritual tag. You can add other ritual spells to your Book of Shadows if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell.
+- Chains of Carceri (Prerequisite: 15th level, Pact of the Chain feature): You can cast hold monster at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+- Devil’s Sight: You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+- Dreadful Word (Prerequisite: 7th level): You can cast confusion once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Eldritch Sight: You can cast detect magic at will, without expending a spell slot.
+- Eldritch Spear (Prerequisite: Eldritch blast cantrip): When you cast eldritch blast, its range is 300 feet.
+- Eyes of the Rune Keeper: You can read all writing.
+- Fiendish Vigor: You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+- Gaze of Two Minds: You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+- Lifedrinker (Prerequisite: 12th level, Pact of the Blade feature): When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+- Mask of Many Faces: You can cast disguise self at will, without expending a spell slot.
+- Master of Myriad Forms (Prerequisite: 15th level): You can cast alter self at will, without expending a spell slot.
+- Minions of Chaos (Prerequisite: 9th level): You can cast conjure elemental once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Mire the Mind (Prerequisite: 5th level): You can cast slow once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Misty Visions: You can cast silent image at will, without expending a spell slot or material components.
+- One with Shadows (Prerequisite: 5th level): When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
+- Otherworldly Leap (Prerequisite: 9th level): You can cast jump on yourself at will, without expending a spell slot or material components.
+- Repelling Blast (Prerequisite: Eldritch blast cantrip): When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+- Sculptor of Flesh (Prerequisite: 7th level): You can cast polymorph once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Sign of Ill Omen (Prerequisite: 5th level): You can cast bestow curse once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Thief of Five Fates: You can cast bane once using a warlock spell slot. You can’t do so again until you finish a long rest.
+- Thirsting Blade (Prerequisite: 5th level, Pact of the Blade feature): You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
+- Visions of Distant Realms (Prerequisite: 15th level): You can cast arcane eye at will, without expending a spell slot.
+- Voice of the Chain Master (Prerequisite: Pact of the Chain feature): You can communicate telepathically with your familiar and perceive through its senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+- Whispers of the Grave (Prerequisite: 9th level): You can cast speak with dead at will, without expending a spell slot.
+- Witch Sight (Prerequisite: 15th level): You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight."
+Wizard,wizard,Free,SRD,"Master the arcane through study, wielding a vast array of spells and magical knowledge.
+
+Ideal for players who want to play a highly strategic spellcaster with access to the most extensive spell list and endless customization of their abilities.","Master the arcane through study, wielding a vast array of spells and magical knowledge.
+
+Ideal for players who want to play a highly strategic spellcaster with access to the most extensive spell list and endless customization of their abilities.","Master the arcane through study, wielding a vast array of spells and magical knowledge.",,,"As a Wizard, you gain the following class features.","Spellcasting,Arcane Recovery,Arcane Tradition,Ability Score Improvement,Spell Mastery","Spellcasting,Arcane Recovery,Arcane Tradition,Ability Score Improvement,Spell Mastery","School of Evocation,Psion Hunter","School of Evocation,Psion Hunter","Hit Dice: 1d6 per wizard level 
+Hit Points at 1st Level: 6 + your Constitution modifier 
+Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st","Armor: None
+Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+Tools: None
+Saving Throws: Intelligence, Wisdom
+Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion","You start with the following equipment, in addition to the equipment granted by your background:
+(a) a quarterstaff or (b) a dagger
+(a) a component pouch or (b) an arcane focus
+(a) a scholar’s pack or (b) an explorer’s pack
+A spellbook",,,Cantrips Known,+2,+2,+2,+2,+3,+3,+3,+3,+4,+4,+4,+4,+5,+5,+5,+5,+6,+6,+6,+6,3,3,3,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,"Spellcasting, Arcane Recovery",Arcane Tradition,-,Ability Score Improvement,-,Arcane Tradition feature,-,Ability Score Improvement,-,Arcane Tradition feature,-,Ability Score Improvement,-,Arcane Tradition feature,-,Ability Score Improvement,-,Spell Mastery,Ability Score Improvement,Signature Spell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arcane Traditions,"The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
+
+The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+
+School of Evocation
+
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+
+Evocation Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
+
+Sculpt Spells
+
+Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+
+Potent Cantrip
+
+Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip.
+
+Empowered Evocation
+
+Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.
+
+Overchannel
+
+Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell. The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
+
+Your Spellbook
+
+The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
+
+Copying a Spell into the Book
+
+When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation. For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
+Replacing the Book
+
+You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
+
+The Book’s Appearance
+
+Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.",,
