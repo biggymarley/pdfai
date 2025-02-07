@@ -95,13 +95,16 @@ export function Chat() {
                             <span className="font-bold">Answer: </span>
                             <ReactMarkdown
                               remarkPlugins={[remarkGfm]}
-                              // rehypePlugins={[rehypeHighlight]}
-                              // components={{ a: LinkRenderer }}
-
                               components={{
                                 code(props) {
-                                  const { children, className, node, ...rest } =
-                                    props;
+                                  // Destructure ref out so that it is not forwarded to SyntaxHighlighter
+                                  const {
+                                    children,
+                                    className,
+                                    node,
+                                    ref,
+                                    ...rest
+                                  } = props;
                                   const match = /language-(\w+)/.exec(
                                     className || ""
                                   );
